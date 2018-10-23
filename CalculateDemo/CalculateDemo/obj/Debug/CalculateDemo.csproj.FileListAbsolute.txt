@@ -1,0 +1,1 @@
+D:\Work\DevOps\Demo\TestDevOps\CalculateDemo\CalculateDemo\bin\Debug\CalculateDemo.exe.config
