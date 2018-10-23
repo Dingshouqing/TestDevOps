@@ -1,0 +1,9 @@
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\CalculateDemoTests.dll
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\CalculateDemoTests.pdb
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\CalculateDemo.exe
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\CalculateDemo.pdb
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\obj\Debug\CalculateDemoTests.csprojResolveAssemblyReference.cache
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\obj\Debug\CalculateDemoTests.dll
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemoTests\obj\Debug\CalculateDemoTests.pdb

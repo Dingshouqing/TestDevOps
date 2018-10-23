@@ -1,1 +1,7 @@
 D:\Work\DevOps\Demo\TestDevOps\CalculateDemo\CalculateDemo\bin\Debug\CalculateDemo.exe.config
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\bin\Debug\CalculateDemo.exe.config
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\bin\Debug\CalculateDemo.exe
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\bin\Debug\CalculateDemo.pdb
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\obj\Debug\CalculateDemo.csprojResolveAssemblyReference.cache
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\obj\Debug\CalculateDemo.exe
+D:\Work\DevOps\Demo\TestDevOps\TestDevOps\CalculateDemo\CalculateDemo\obj\Debug\CalculateDemo.pdb
